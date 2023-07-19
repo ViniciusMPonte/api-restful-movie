@@ -136,7 +136,7 @@ Para executar o projeto, siga as etapas abaixo:
 ```.env
 
 NODE_ENV=           //Digite 'production' ou 'development'
-PORT=               //Se não for definido o servidor rodará na porta 8080
+PORT=               //Defina o valor da porta
 MONGO_URI=          //URI do banco de dados MongoDB
 
 ```
