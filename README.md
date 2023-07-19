@@ -145,7 +145,7 @@ MONGO_URI=          //URI do banco de dados MongoDB
 
 4. Abra um terminal e navegue até a pasta raiz do projeto.
 5. Execute `npm install` para instalar as dependências do projeto;
-6. Execute `npm run build` para compilar os arquivos TypeScript em JavaScript;
+6. Execute `npm run build` para transpilar os arquivos TypeScript em JavaScript;
 7. Execute `npm start` para iniciar o servidor.
 
 ## Contato
