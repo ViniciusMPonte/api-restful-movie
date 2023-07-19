@@ -39,7 +39,7 @@ Para garantir que os dados fornecidos estejam corretos e válidos, a API utiliza
   - Mínimo de 5 caracteres.
 
 - **rating**:
-  - Tipo: Número
+  - Tipo: Number
   - Intervalo: de 0 a 10.
 
 - **description**:
