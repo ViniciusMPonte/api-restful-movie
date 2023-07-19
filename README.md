@@ -1,4 +1,4 @@
-# API de Informações de Filmes
+# Biblioteca de Filmes - API
 
 Esta é uma **API Restful** que tem como objetivo armazenar e fornecer informações de filmes. Ela foi desenvolvida em **TypeScript** com base na **arquitetura Model-View-Controller (MVC)**, e utiliza o **MongoDB** como banco de dados NoSQL.
 
