@@ -120,7 +120,7 @@ A API faz uso da biblioteca "Winston" para configurações de loggers. Os logs p
 
 ### Pré-requisitos
 
-Para operar adequadamente, é necessário possuir o Node.js devidamente instalado em seu computador. Quanto ao banco de dados, há duas opções disponíveis:
+Para operar adequadamente, é necessário possuir o Node.js e o TypeScript devidamente instalados em seu computador. Quanto ao banco de dados, há duas opções disponíveis:
 
 - A primeira delas é ter a instalação do MongoDB diretamente em sua máquina.
 - A segunda alternativa, por sua vez, é utilizar a URI de um banco de dados MongoDB online.
