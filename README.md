@@ -113,7 +113,17 @@ Essas são dependências que são necessárias apenas durante o desenvolvimento 
 
 ## Configurações de Logger
 
-A API faz uso da biblioteca "Winston" para configurações de loggers. Os logs possuem diferentes níveis de informações, cada um com cores distintas para facilitar a visualização. Em ambiente de produção, somente logs do nível "Warn" são exibidos para evitar sobrecarga no servidor. Os logs são armazenados em arquivos locais e arquivos antigos são deletados automaticamente para garantir um ambiente limpo.
+A API faz uso da biblioteca "Winston" para configurações de loggers. Os logs possuem diferentes níveis de informações, cada um com cores distintas para facilitar a visualização. 
+
+| Nível     | Cor       |
+|-----------|-----------|
+| error     | vermelho  |
+| warn      | amarelo   |
+| info      | verde     |
+| http      | magenta   |
+| debug     | branco    |
+
+Em ambiente de produção, somente logs do nível "Warn" são exibidos para evitar sobrecarga no servidor. Os logs são armazenados em arquivos locais e arquivos antigos são deletados automaticamente para garantir um ambiente limpo.
 
 
 ## Como executar o projeto
